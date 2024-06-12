@@ -13,6 +13,7 @@ Estructura de Archivos .py
 5.utils.py
 
 Descripción de los Archivos
+
 main.py
 Descripción: Es el punto de entrada principal de la aplicación. Aquí se inicializan los módulos y se gestiona el flujo principal.
 Funcionalidad: Configuración inicial, ejecución principal del programa.
