@@ -7,10 +7,15 @@ A continuación, detallamos los archivos .py que forman parte de la aplicación 
 Estructura de Archivos .py
 
 1. main.py
+
 2. models.py
+
 3. database.py
+
 4. relations.py
+
 5.utils.py
+
 
 Descripción de los Archivos
 
