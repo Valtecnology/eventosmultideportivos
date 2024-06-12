@@ -1,5 +1,4 @@
-INTEGRANTES:
-
+                                      Integrantes
 Nombre:Valeria
 Apellido:Ahumada
 DNI:19115140  
@@ -18,14 +17,17 @@ DNI:39173576
 Correo:simonvottero.95@gmail.com
 Github:https:// github.com/simonbleu 
 
-                                       Propuesta: 
+                                        Propuesta 
                                        
  Desarrollar una aplicación que facilite la organización integral de eventos multideportivos.
  Esta herramienta permitirá gestionar a los participantes, agregar diversas disciplinas deportivas y 
  organizar los encuentros,así como los horarios de cada evento de manera eficiente.
+ 
 
+                                         Nombre
+Eventos Multideportivos                                         
 
-                                    
+                                   
                                     
                                        Detalle de la Aplicación Modularizada del Proyecto
                                     
