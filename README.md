@@ -1,10 +1,11 @@
                                     Detalle de la Aplicación Modularizada del Proyecto
-
+                                    
 Este proyecto está compuesto por varios módulos en Python, cada uno con una responsabilidad específica. 
 
 A continuación, detallamos los archivos .py que forman parte de la aplicación y su funcionalidad:
 
 Estructura de Archivos .py
+
 1. main.py
 2. models.py
 3. database.py
@@ -13,7 +14,6 @@ Estructura de Archivos .py
 
 Descripción de los Archivos
 main.py
-
 Descripción: Es el punto de entrada principal de la aplicación. Aquí se inicializan los módulos y se gestiona el flujo principal.
 Funcionalidad: Configuración inicial, ejecución principal del programa.
 
