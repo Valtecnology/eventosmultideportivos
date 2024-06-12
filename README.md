@@ -17,25 +17,25 @@ DNI:39173576
 Correo:simonvottero.95@gmail.com
 Github:https:// github.com/simonbleu 
 
-                                        Propuesta 
+                                       Propuesta 
                                        
  Desarrollar una aplicación que facilite la organización integral de eventos multideportivos.
  Esta herramienta permitirá gestionar a los participantes, agregar diversas disciplinas deportivas y 
  organizar los encuentros,así como los horarios de cada evento de manera eficiente.
  
 
-                                         Nombre
+                                       Nombre
+
 Eventos Multideportivos                                         
 
-                                   
-                                    
+                                                                      
                                        Detalle de la Aplicación Modularizada del Proyecto
                                     
 Este proyecto está compuesto por varios módulos en Python, cada uno con una responsabilidad específica. 
 
 A continuación, detallamos los archivos .py que forman parte de la aplicación y su funcionalidad:
 
-Estructura de Archivos .py
+                                        Estructura de Archivos .py
 
 1. main.py
 
@@ -48,7 +48,7 @@ Estructura de Archivos .py
 5. utils.py
 
 
-Descripción de los Archivos
+                                        Descripción de los Archivos
 
 main.py
 
@@ -82,6 +82,25 @@ utils.py
 
 Descripción: Contiene funciones utilitarias y de apoyo que son utilizadas por otros módulos.
 Funcionalidad: Funciones comunes como manejo de fechas, validaciones, etc.
+
+                                       Aplicación
+
+from models import Participante, Disciplina, Evento, Encuentro
+from database import connect_db, create_tables
+from relations import define_relations
+from utils import insert_sample_data, validate_data
+
+`eventosmultideportivos.py`
+`def main():`
+    `db = connect_db()`
+    `create_tables(db)`
+    `define_relations(db)`
+    `insert_sample_data(db)`
+    `# Lógica principal de la aplicación`
+    `print("Aplicación iniciada correctamente")`
+
+`if __name__ == "__main__":`
+    `main()`
 
 
 
