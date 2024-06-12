@@ -86,13 +86,14 @@ Funcionalidad: Funciones comunes como manejo de fechas, validaciones, etc.
 
                                        
                                        Aplicación
-
-```from models import Participante, Disciplina, Evento, Encuentro
+                                       
+```
+from models import Participante, Disciplina, Evento, Encuentro
 from database import connect_db, create_tables
 from relations import define_relations
-from utils import insert_sample_data, validate_data```
+from utils import insert_sample_data, validate_data 
 
-```eventos_multideportivos.py
+eventos_multideportivos.py
 
 def main():
        db = connect_db()
@@ -103,7 +104,8 @@ def main():
        print("Aplicación iniciada correctamente")
 
     if __name__ == "__main__":
-    main()```
+    main()
+```
 
 
 
