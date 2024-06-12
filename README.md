@@ -35,7 +35,8 @@ Este proyecto está compuesto por varios módulos en Python, cada uno con una re
 
 A continuación, detallamos los archivos .py que forman parte de la aplicación y su funcionalidad:
 
-                                        Estructura de Archivos .py
+                                       
+                                       Estructura de Archivos .py
 
 1. main.py
 
@@ -83,8 +84,8 @@ utils.py
 Descripción: Contiene funciones utilitarias y de apoyo que son utilizadas por otros módulos.
 Funcionalidad: Funciones comunes como manejo de fechas, validaciones, etc.
 
+                                       
                                        Aplicación
-
 
 from models import Participante, Disciplina, Evento, Encuentro
 from database import connect_db, create_tables
