@@ -1,4 +1,7 @@
+APLICACIÓN
+
 eventos_multideportivos.py
+
 from models import Participante, Disciplina, Evento, Encuentro
 from database import connect_db, create_tables
 from relations import define_relations
