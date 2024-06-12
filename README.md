@@ -6,20 +6,17 @@ DNI:      19115140
 Correo:   imparable2030@gmail.com
 Github:   https://github.com/Valtecnology
 
-
 Nombre:   Mateo
 Apellido: Reynoso Marin
 DNI:      43881462
 Correo:   mateoreynoso2009@gmail.com
 Github:   https://github.com/MateoReynosoM
 
-
 Nombre:   Simón Azul
 Apellido: Sánchez Vottero
 DNI:      39173576
 Correo:   simonvottero.95@gmail.com
 Github:   https:// github.com/simonbleu 
-
 
  Propuesta: Desarrollar una aplicación que facilite la organización integral de eventos multideportivos.
  Esta herramienta permitirá gestionar a los participantes, agregar diversas disciplinas deportivas y 
