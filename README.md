@@ -103,8 +103,10 @@ def main():
        # Lógica principal de la aplicación
        print("Aplicación iniciada correctamente")
 
-    if __name__ == "__main__":
+ if __name__ == "__main__":
     main()
+
+
 ```
 
 
